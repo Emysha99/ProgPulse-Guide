@@ -15,7 +15,7 @@ ProgPulse Guide is an AI-powered expert system that helps people choose the best
 ## Decision Tree
 Below is the decision tree used by **ProgPulse Guide** to recommend programming languages and frameworks:
 
-![Decision Tree](images/decision_tree.png)
+![Decision Tree](Decision%20tree.png)
 
 
 ## Getting Started
