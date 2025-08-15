@@ -2,7 +2,7 @@
 An expert system for best matching programming language recommendation
 
 ## Overview
-“ProgPulse Guide” is an expert system represents a fusion of artificial intelligence and domain expertise, aiming to empower individuals seeking to embark on a coding journey with a tailored and informed decision.The main goal of this expert system is assesing different programming languages and frameworks ,considering how they match with specific project requirements and personal preferences.The system understands the details and how everything fits together, so it can recommend the best matching programming language or framework that needs to be learnt by a particular user.
+ProgPulse Guide is an AI-powered expert system that helps people choose the best programming language or framework to learn. It considers both the user’s project requirements and personal preferences, then recommends the most suitable option. By combining domain knowledge with intelligent analysis, it guides beginners and learners toward the right technology for their goals.
 
 ## Features
 
@@ -11,6 +11,12 @@ An expert system for best matching programming language recommendation
 - **Knowledge Base:** Repository of information on various programming languages, frameworks, and their compatibility with different project types.
 - **Knowledge Editor:** Tool for administrators or developers to update and modify information in the Knowledge Base.
 - **Knowledge Engineer:** Expert responsible for refining rules and information within the Knowledge Base.
+
+## Decision Tree
+Below is the decision tree used by **ProgPulse Guide** to recommend programming languages and frameworks:
+
+![Decision Tree](images/decision_tree.png)
+
 
 ## Getting Started
 ### Prerequisites
